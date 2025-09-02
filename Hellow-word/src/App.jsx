@@ -1,5 +1,5 @@
 function App() {
-let Hellow = "Hellow World"
+let Hellow = "Hellow World";
 
   return (
     <>
